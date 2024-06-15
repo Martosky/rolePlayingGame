@@ -4,3 +4,7 @@
     box-sizing: border-box;
     background-color: yellow;
 }
+body{
+    display:grid;
+    grid-template-columns: auto;
+}
